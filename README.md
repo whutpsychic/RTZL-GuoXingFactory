@@ -1,2 +1,2 @@
-# RTZL-GuoXingFactory
-国兴智能工厂App。
+# RTZL-guoxingFactory
+烟台国兴智能工厂App。
